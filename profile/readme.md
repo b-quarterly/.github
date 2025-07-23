@@ -22,9 +22,4 @@ Broke Quarterly works further to protect the interest of the consortium, with be
 
 > To build a stronger wall, Broke the weaker one.
 
-## Supporting Organizations
-|<img src="https://avatars.githubusercontent.com/u/100691531?v=4" width="150"/>|<img src="https://avatars.githubusercontent.com/u/222044761?v=4" width="150"/>|<img src="https://avatars.githubusercontent.com/u/216017445?s=200&v=4" width="150"/>|<img src="https://avatars.githubusercontent.com/u/208127348?s=200&v=4" width="150"/>
-|--|--|--|--|
-|Aitzaz Imtiaz (founder)|Cheong Hanuel (founder's alias)|NeuroStol|Broke Dataverse|
-
 ![](https://avatars.githubusercontent.com/u/216016902?s=200&v=4)
